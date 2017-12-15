@@ -1,7 +1,5 @@
-directory: csv
-- **editors.csv**: data used to create stacked bar graph of types of editors subdivided into affiliations
-- **senior_editors.csv**: data used to create pie chart of editors used by seniors
-- **junior\_editors.csv**: data used to create pie chart of editors used by juniors
-- **sophomore\_editors.csv**: data used to create pie chart of editors used by sophomores
+Feb31: Notre Dame Student Machines Tracker
+=====================================
+The files are split into `data_collection` and `html` (web code). 
 
-These csv files are created by the file **editor\_csv.php**. The graphs are displayed in **graph.php**
+See the website [here]("http://dsg1.crc.nd.edu/cse30246/feb31/")
